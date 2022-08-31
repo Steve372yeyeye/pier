@@ -1,9 +1,13 @@
 自己造的轮子哦！
+
 程序基于 GPLv2 许可证。
+
 依赖：Choice.exe、wget(uma-get.exe)、unzip.exe
+
 pier(Windows Package Installer) 是一个 Windows 批处理 构成的软件包管理器，他轻量、便捷，但是不安全。所以，请仔细甄别网上的 Pier 命令。
-<font color=red>该轮子制作者：？、アイドル宣言
-</font>
+
+该轮子制作者：？、アイドル宣言
+
 
 ## 安装软件
 
@@ -101,6 +105,7 @@ Pier 的安装分为<font color=#66CC>下载元数据</font>和下载本体，�
 ![](https://img.gejiba.com/images/054cfa18e7af17733afa3a344331b56a.png)
 ## 安装包文件要求
 因为 Pier 的固定操作，需要遵守以下规则：
+
 需要制作一个“静默”安装的 exe 安装包，并改名为 pie 格式，然后再上传到你的服务器。必须改名。
 ## Pier 原理
 首先向服务器下载“元数据”以让 Pier 知道用户操作是否正确。
