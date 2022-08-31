@@ -1,4 +1,6 @@
 自己造的轮子哦！
+程序基于 GPLv2 许可证。
+依赖：Choice.exe、wget(uma-get.exe)、unzip.exe
 pier(Windows Package Installer) 是一个 Windows 批处理 构成的软件包管理器，他轻量、便捷，但是不安全。所以，请仔细甄别网上的 Pier 命令。
 <font color=red>该轮子制作者：？、アイドル宣言
 </font>
